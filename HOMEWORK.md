@@ -23,7 +23,7 @@
 
 ## 我的照片
 
-![一张图片](1.jpg)
+![一张图片](1.jpeg)
 
 ## 这是一段JavaScript代码
 ```javascript
